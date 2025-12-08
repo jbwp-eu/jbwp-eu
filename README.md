@@ -1,5 +1,6 @@
 ## Hi there 👋
 📫 How to reach me: jarekb0605@gmail.com
+Projects: https://tsx.book-store.com.pl, https://next.book-store.com.pl, https://jsx.book-store.com.pl
 
 <!--
 **jbwp-eu/jbwp-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
